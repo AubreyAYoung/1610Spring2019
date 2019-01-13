@@ -1,2 +1,2 @@
-Provo, Fog, 37 dgrees, 85% Humidity
+Provo, Cloudy, 28 dgrees, 80% Humidity
 
