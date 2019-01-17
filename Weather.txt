@@ -1,2 +1,2 @@
-Provo,Cloudy, 36 degrees, 81% Humidity
+Provo,Cloudy, 42 degrees, 73% Humidity
 
