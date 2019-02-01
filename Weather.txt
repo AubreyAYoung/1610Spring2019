@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Orem Mostly Cloudy, 42 degrees
+=======
+Provo, Clear, 30 degrees, 68% Humidity
+
+>>>>>>> master
