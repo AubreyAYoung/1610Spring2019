@@ -5308,7 +5308,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: Aesop
-  SkinColor: {r: 0.1254902, g: 0.1254902, b: 0.1254902, a: 0}
+  SkinColor: {r: 0.7490196, g: 0.2392157, b: 0.2392157, a: 1}
 --- !u!114 &1714778762
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5321,7 +5321,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: GreekDog
-  SkinColor: {r: 0, g: 0, b: 0, a: 0}
+  SkinColor: {r: 0.69411767, g: 0, b: 0, a: 1}
 --- !u!212 &1714778763
 SpriteRenderer:
   m_ObjectHideFlags: 0

@@ -10,12 +10,14 @@ public class Animal : Mammal
 	
 	
 	// Use this for initialization
-	void Start () {
-		
+	void Start () 
+	{
+		//Do work
 	}
 	
 	// Update is called once per frame
-	void Update () {
-		
+	void Update () 
+	{
+	//Do work	
 	}
 }
