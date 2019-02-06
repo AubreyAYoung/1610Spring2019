@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Provo, Clear, 40 degrees, 57% Humidity
+Orem, Snow, 32 degrees, 57% Humidity
 
 =======
 <<<<<<< HEAD
