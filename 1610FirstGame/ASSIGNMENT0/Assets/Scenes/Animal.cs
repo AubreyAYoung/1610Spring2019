@@ -2,10 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Animal : Mammal
+public class Animal : MonoBehaviour 
 {
 
 	public string Name;
+	public int Health;
+	public float Speed;
+	public bool CanMove; 
+	
 	public Color SkinColor; 
 	
 	
