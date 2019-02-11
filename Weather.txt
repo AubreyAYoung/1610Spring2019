@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Provo, Cloudy, 35 degrees, 563% Humidity
+Provo, Snow, 28 degrees, 63% Humidity
 
 =======
 <<<<<<< HEAD
