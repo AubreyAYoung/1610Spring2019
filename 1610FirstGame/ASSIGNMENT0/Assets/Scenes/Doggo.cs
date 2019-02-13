@@ -1,10 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
+using UnityEngine; 
+using UnityEngine.Events; 
 
 public class Doggo : Animal
 {
-
+	public bool CanBork = true;
+	public int Hunger = 50;
+	public float HungerIncrease = 0.5f;
+	
 	// Use this for initialization
 	void Start () 
 {

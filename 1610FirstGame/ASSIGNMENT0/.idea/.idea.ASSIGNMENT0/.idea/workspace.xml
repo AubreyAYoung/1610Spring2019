@@ -10,31 +10,60 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Doggo.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/Doggo.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="150">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
               <folding>
-                <marker date="1549476860133" expanded="false" signature="6:78" ph="..." />
-                <marker date="1549476860133" expanded="true" signature="107:341" ph="{...}" />
-                <marker date="1549476860133" expanded="true" signature="158:252" ph="{...}" />
-                <marker date="1549476860133" expanded="true" signature="306:339" ph="{...}" />
+                <marker date="1550020190564" expanded="true" signature="6:105" ph="..." />
+                <marker date="1550020190564" expanded="true" signature="135:461" ph="{...}" />
+                <marker date="1550020190564" expanded="true" signature="278:372" ph="{...}" />
+                <marker date="1550020190564" expanded="true" signature="426:459" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mammal.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Animal.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Animal.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+              <folding>
+                <marker date="1550020240375" expanded="true" signature="6:105" ph="..." />
+                <marker date="1550020240375" expanded="true" signature="144:429" ph="{...}" />
+                <marker date="1550020240375" expanded="true" signature="336:354" ph="{...}" />
+                <marker date="1550020240375" expanded="true" signature="409:427" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ColumnEvent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/ColumnEvent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1548986089226" expanded="false" signature="6:45" ph="..." />
+                <marker date="1548986089226" expanded="true" signature="89:183" ph="{...}" />
+                <marker date="1548986089226" expanded="true" signature="156:181" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mammal.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/Mammal.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
               <folding>
-                <marker date="1549908801133" expanded="true" signature="6:105" ph="..." />
-                <marker date="1549908801133" expanded="true" signature="137:382" ph="{...}" />
-                <marker date="1549908801133" expanded="true" signature="311:318" ph="{...}" />
-                <marker date="1549908801133" expanded="true" signature="373:380" ph="{...}" />
+                <marker date="1550018705976" expanded="true" signature="6:105" ph="..." />
+                <marker date="1550018705976" expanded="true" signature="137:399" ph="{...}" />
+                <marker date="1550018705976" expanded="true" signature="311:335" ph="{...}" />
+                <marker date="1550018705976" expanded="true" signature="390:397" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -46,13 +75,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Animal.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Doggo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Mammal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/ColumnEvent.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scenes/Mammal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Doggo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Animal.cs" />
       </list>
     </option>
   </component>
@@ -74,7 +107,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -87,10 +123,7 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -126,11 +159,12 @@
       <option name="presentableId" value="Default" />
       <updated>1549908711957</updated>
       <workItem from="1549908716046" duration="150000" />
+      <workItem from="1550018561096" duration="1215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150000" />
+    <option name="totallyTimeSpent" value="1365000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -145,25 +179,26 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="NuGet" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
@@ -180,10 +215,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1549476860133" expanded="false" signature="6:78" ph="..." />
-            <marker date="1549476860133" expanded="true" signature="107:341" ph="{...}" />
-            <marker date="1549476860133" expanded="true" signature="158:252" ph="{...}" />
-            <marker date="1549476860133" expanded="true" signature="306:339" ph="{...}" />
+            <marker date="1550020190564" expanded="true" signature="6:105" ph="..." />
+            <marker date="1550020190564" expanded="true" signature="135:461" ph="{...}" />
+            <marker date="1550020190564" expanded="true" signature="278:372" ph="{...}" />
+            <marker date="1550020190564" expanded="true" signature="426:459" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -193,10 +228,60 @@
         <state relative-caret-position="315">
           <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
-            <marker date="1549908801133" expanded="true" signature="6:105" ph="..." />
-            <marker date="1549908801133" expanded="true" signature="137:382" ph="{...}" />
-            <marker date="1549908801133" expanded="true" signature="311:318" ph="{...}" />
-            <marker date="1549908801133" expanded="true" signature="373:380" ph="{...}" />
+            <marker date="1550018705976" expanded="true" signature="6:105" ph="..." />
+            <marker date="1550018705976" expanded="true" signature="137:399" ph="{...}" />
+            <marker date="1550018705976" expanded="true" signature="311:335" ph="{...}" />
+            <marker date="1550018705976" expanded="true" signature="390:397" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/ColumnEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1548986089226" expanded="false" signature="6:45" ph="..." />
+            <marker date="1548986089226" expanded="true" signature="89:183" ph="{...}" />
+            <marker date="1548986089226" expanded="true" signature="156:181" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Doggo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <marker date="1550020190564" expanded="true" signature="6:105" ph="..." />
+            <marker date="1550020190564" expanded="true" signature="135:461" ph="{...}" />
+            <marker date="1550020190564" expanded="true" signature="278:372" ph="{...}" />
+            <marker date="1550020190564" expanded="true" signature="426:459" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Mammal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <marker date="1550018705976" expanded="true" signature="6:105" ph="..." />
+            <marker date="1550018705976" expanded="true" signature="137:399" ph="{...}" />
+            <marker date="1550018705976" expanded="true" signature="311:335" ph="{...}" />
+            <marker date="1550018705976" expanded="true" signature="390:397" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Animal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <marker date="1550020240375" expanded="true" signature="6:105" ph="..." />
+            <marker date="1550020240375" expanded="true" signature="144:429" ph="{...}" />
+            <marker date="1550020240375" expanded="true" signature="336:354" ph="{...}" />
+            <marker date="1550020240375" expanded="true" signature="409:427" ph="{...}" />
           </folding>
         </state>
       </provider>

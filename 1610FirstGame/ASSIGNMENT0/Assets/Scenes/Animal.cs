@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
+using UnityEngine; 
+using UnityEngine.Events; 
 
 public class Animal : MonoBehaviour 
 {
@@ -8,8 +9,8 @@ public class Animal : MonoBehaviour
 	public string Name;
 	public int Health;
 	public float Speed;
-	public bool CanMove; 
-	
+	public bool CanMove;
+	public int Energy = 100; 
 	public Color SkinColor; 
 	
 	
