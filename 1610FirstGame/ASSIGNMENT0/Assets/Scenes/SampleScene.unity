@@ -5297,8 +5297,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: 
-  Health: 0
-  Speed: 0
+  Health: {fileID: 0}
+  Speed: {fileID: 0}
   CanMove: 0
   Energy: 100
   SkinColor: {r: 0, g: 0, b: 0, a: 0}
@@ -5322,8 +5322,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: Aesop
-  Health: 0
-  Speed: 0
+  Health: {fileID: 11400000, guid: d385c4f9ba0ac9e4bb418fc533716d4e, type: 2}
+  Speed: {fileID: 11400000, guid: 36aff0047cc56cc45a4ec499a151721c, type: 2}
   CanMove: 0
   Energy: 100
   SkinColor: {r: 0.7490196, g: 0.2392157, b: 0.2392157, a: 1}
@@ -5342,8 +5342,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: GreekDog
-  Health: 0
-  Speed: 0
+  Health: {fileID: 0}
+  Speed: {fileID: 0}
   CanMove: 0
   Energy: 100
   SkinColor: {r: 0.69411767, g: 0, b: 0, a: 1}

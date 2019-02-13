@@ -9,6 +9,7 @@
           <e p="Animal.cs" t="Include" />
           <e p="ColumnEvent.cs" t="Include" />
           <e p="Doggo.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
           <e p="Mammal.cs" t="Include" />
         </e>
       </e>
