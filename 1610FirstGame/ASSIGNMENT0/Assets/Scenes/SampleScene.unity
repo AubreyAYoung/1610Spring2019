@@ -5296,6 +5296,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4de0203470df934498e6331f47c7b916, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Name: 
+  Health: {fileID: 0}
+  Speed: {fileID: 0}
+  CanMove: 0
+  Energy: 100
+  SkinColor: {r: 0, g: 0, b: 0, a: 0}
+  FurCount: 10000
+  EatingSpeed: 0.4
+  CanEat: 1
+  Event:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
 --- !u!114 &1714778761
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5308,7 +5322,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: Aesop
-  SkinColor: {r: 0.1254902, g: 0.1254902, b: 0.1254902, a: 0}
+  Health: {fileID: 11400000, guid: d385c4f9ba0ac9e4bb418fc533716d4e, type: 2}
+  Speed: {fileID: 11400000, guid: 36aff0047cc56cc45a4ec499a151721c, type: 2}
+  CanMove: 0
+  Energy: 100
+  SkinColor: {r: 0.7490196, g: 0.2392157, b: 0.2392157, a: 1}
+  CanBork: 1
+  Hunger: 50
+  HungerIncrease: 0.5
 --- !u!114 &1714778762
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5321,7 +5342,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: GreekDog
-  SkinColor: {r: 0, g: 0, b: 0, a: 0}
+  Health: {fileID: 0}
+  Speed: {fileID: 0}
+  CanMove: 0
+  Energy: 100
+  SkinColor: {r: 0.69411767, g: 0, b: 0, a: 1}
 --- !u!212 &1714778763
 SpriteRenderer:
   m_ObjectHideFlags: 0
