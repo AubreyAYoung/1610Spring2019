@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu]
-public class FloatData : ScriptableObject
+public class ColorData : ScriptableObject
 {
 
-	public float Value; 
+    public Color Value; 
 
 }

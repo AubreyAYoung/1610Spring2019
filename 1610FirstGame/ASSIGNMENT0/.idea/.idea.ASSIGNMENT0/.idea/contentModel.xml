@@ -7,6 +7,7 @@
       <e p="Assets" t="Include">
         <e p="Scenes" t="Include">
           <e p="Animal.cs" t="Include" />
+          <e p="ColorData.cs" t="Include" />
           <e p="ColumnEvent.cs" t="Include" />
           <e p="Doggo.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />

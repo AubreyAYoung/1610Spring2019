@@ -26,3 +26,5 @@ public class Animal : MonoBehaviour
 	//Do work	
 	}
 }
+
+
