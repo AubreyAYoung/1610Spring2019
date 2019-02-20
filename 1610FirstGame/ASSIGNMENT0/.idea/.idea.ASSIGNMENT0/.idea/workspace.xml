@@ -11,85 +11,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Doggo.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Doggo.cs">
+      <file leaf-file-name="PowerUpBase.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/PowerUpBase.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state relative-caret-position="225">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
               <folding>
-                <marker date="1550020190564" expanded="false" signature="6:105" ph="..." />
-                <marker date="1550020190564" expanded="true" signature="135:461" ph="{...}" />
-                <marker date="1550020190564" expanded="true" signature="278:372" ph="{...}" />
-                <marker date="1550020190564" expanded="true" signature="426:459" ph="{...}" />
+                <marker date="1550685176008" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550685176008" expanded="true" signature="141:276" ph="{...}" />
+                <marker date="1550685176008" expanded="true" signature="194:205" ph="{...}" />
+                <marker date="1550685176008" expanded="true" signature="245:272" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Animal.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Animal.cs">
+      <file leaf-file-name="MonoEvents.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MonoEvents.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="420">
+              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
               <folding>
-                <marker date="1550629364865" expanded="false" signature="6:105" ph="..." />
-                <marker date="1550629364865" expanded="true" signature="144:439" ph="{...}" />
-                <marker date="1550629364865" expanded="true" signature="346:364" ph="{...}" />
-                <marker date="1550629364865" expanded="true" signature="419:437" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FloatData.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scenes/FloatData.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <marker date="1550629845330" expanded="false" signature="6:78" ph="..." />
-                <marker date="1550629845330" expanded="true" signature="139:167" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ColorData.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scenes/ColorData.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-              <folding>
-                <marker date="1550630160612" expanded="false" signature="6:78" ph="..." />
-                <marker date="1550630160612" expanded="true" signature="139:170" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ColumnEvent.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scenes/ColumnEvent.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1548986089226" expanded="false" signature="6:45" ph="..." />
-                <marker date="1548986089226" expanded="true" signature="89:183" ph="{...}" />
-                <marker date="1548986089226" expanded="true" signature="156:181" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mammal.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Mammal.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
-              <folding>
-                <marker date="1550018705976" expanded="true" signature="6:105" ph="..." />
-                <marker date="1550018705976" expanded="true" signature="137:399" ph="{...}" />
-                <marker date="1550018705976" expanded="true" signature="311:335" ph="{...}" />
-                <marker date="1550018705976" expanded="true" signature="390:397" ph="{...}" />
+                <marker date="1550684740965" expanded="true" signature="6:105" ph="..." />
+                <marker date="1550684740965" expanded="true" signature="147:473" ph="{...}" />
+                <marker date="1550684740965" expanded="true" signature="241:270" ph="{...}" />
+                <marker date="1550684740965" expanded="true" signature="296:326" ph="{...}" />
+                <marker date="1550684740965" expanded="true" signature="355:388" ph="{...}" />
+                <marker date="1550684740965" expanded="true" signature="443:471" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -101,12 +49,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Animal.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/ColorData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Doggo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Mammal.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/ColumnEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/PowerUpBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -116,6 +60,8 @@
         <option value="$PROJECT_DIR$/Assets/Scenes/Animal.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/ColorData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/MonoEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/PowerUpBase.cs" />
       </list>
     </option>
   </component>
@@ -137,10 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -154,6 +96,10 @@
         <option name="show-hidden-items" value="false" />
       </pane>
       <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,11 +139,12 @@
       <workItem from="1550078593556" duration="1436000" />
       <workItem from="1550628225889" duration="675000" />
       <workItem from="1550629296843" duration="1761000" />
+      <workItem from="1550683112053" duration="2578000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5237000" />
+    <option name="totallyTimeSpent" value="7815000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -210,6 +157,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -246,177 +194,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/Doggo.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding>
-            <marker date="1550020190564" expanded="false" signature="6:105" ph="..." />
-            <marker date="1550020190564" expanded="true" signature="135:461" ph="{...}" />
-            <marker date="1550020190564" expanded="true" signature="278:372" ph="{...}" />
-            <marker date="1550020190564" expanded="true" signature="426:459" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/ColumnEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1548986089226" expanded="false" signature="6:45" ph="..." />
-            <marker date="1548986089226" expanded="true" signature="89:183" ph="{...}" />
-            <marker date="1548986089226" expanded="true" signature="156:181" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Animal.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <marker date="1550629364865" expanded="false" signature="6:105" ph="..." />
-            <marker date="1550629364865" expanded="true" signature="144:439" ph="{...}" />
-            <marker date="1550629364865" expanded="true" signature="346:364" ph="{...}" />
-            <marker date="1550629364865" expanded="true" signature="419:437" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Mammal.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
-          <folding>
-            <marker date="1550018705976" expanded="true" signature="6:105" ph="..." />
-            <marker date="1550018705976" expanded="true" signature="137:399" ph="{...}" />
-            <marker date="1550018705976" expanded="true" signature="311:335" ph="{...}" />
-            <marker date="1550018705976" expanded="true" signature="390:397" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Doggo.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding>
-            <marker date="1550020190564" expanded="false" signature="6:105" ph="..." />
-            <marker date="1550020190564" expanded="true" signature="135:461" ph="{...}" />
-            <marker date="1550020190564" expanded="true" signature="278:372" ph="{...}" />
-            <marker date="1550020190564" expanded="true" signature="426:459" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/FloatData.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/ColumnEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1548986089226" expanded="false" signature="6:45" ph="..." />
-            <marker date="1548986089226" expanded="true" signature="89:183" ph="{...}" />
-            <marker date="1548986089226" expanded="true" signature="156:181" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Mammal.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
-          <folding>
-            <marker date="1550018705976" expanded="true" signature="6:105" ph="..." />
-            <marker date="1550018705976" expanded="true" signature="137:399" ph="{...}" />
-            <marker date="1550018705976" expanded="true" signature="311:335" ph="{...}" />
-            <marker date="1550018705976" expanded="true" signature="390:397" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Animal.cs">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <marker date="1550629364865" expanded="false" signature="6:105" ph="..." />
-            <marker date="1550629364865" expanded="true" signature="144:439" ph="{...}" />
-            <marker date="1550629364865" expanded="true" signature="346:364" ph="{...}" />
-            <marker date="1550629364865" expanded="true" signature="419:437" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Doggo.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
           <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding>
-            <marker date="1550020190564" expanded="false" signature="6:105" ph="..." />
-            <marker date="1550020190564" expanded="true" signature="135:461" ph="{...}" />
-            <marker date="1550020190564" expanded="true" signature="278:372" ph="{...}" />
-            <marker date="1550020190564" expanded="true" signature="426:459" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/ColumnEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1548986089226" expanded="false" signature="6:45" ph="..." />
-            <marker date="1548986089226" expanded="true" signature="89:183" ph="{...}" />
-            <marker date="1548986089226" expanded="true" signature="156:181" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Mammal.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
-          <folding>
-            <marker date="1550018705976" expanded="true" signature="6:105" ph="..." />
-            <marker date="1550018705976" expanded="true" signature="137:399" ph="{...}" />
-            <marker date="1550018705976" expanded="true" signature="311:335" ph="{...}" />
-            <marker date="1550018705976" expanded="true" signature="390:397" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Animal.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-          <folding>
-            <marker date="1550629364865" expanded="false" signature="6:105" ph="..." />
-            <marker date="1550629364865" expanded="true" signature="144:439" ph="{...}" />
-            <marker date="1550629364865" expanded="true" signature="346:364" ph="{...}" />
-            <marker date="1550629364865" expanded="true" signature="419:437" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Doggo.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1550020190564" expanded="false" signature="6:105" ph="..." />
-            <marker date="1550020190564" expanded="true" signature="135:461" ph="{...}" />
-            <marker date="1550020190564" expanded="true" signature="278:372" ph="{...}" />
-            <marker date="1550020190564" expanded="true" signature="426:459" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Mammal.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <marker date="1550018705976" expanded="true" signature="6:105" ph="..." />
-            <marker date="1550018705976" expanded="true" signature="137:399" ph="{...}" />
-            <marker date="1550018705976" expanded="true" signature="311:335" ph="{...}" />
-            <marker date="1550018705976" expanded="true" signature="390:397" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -424,36 +203,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <marker date="1550629364865" expanded="false" signature="6:105" ph="..." />
-            <marker date="1550629364865" expanded="true" signature="144:439" ph="{...}" />
-            <marker date="1550629364865" expanded="true" signature="346:364" ph="{...}" />
-            <marker date="1550629364865" expanded="true" signature="419:437" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Doggo.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding>
-            <marker date="1550020190564" expanded="false" signature="6:105" ph="..." />
-            <marker date="1550020190564" expanded="true" signature="135:461" ph="{...}" />
-            <marker date="1550020190564" expanded="true" signature="278:372" ph="{...}" />
-            <marker date="1550020190564" expanded="true" signature="426:459" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/ColumnEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1548986089226" expanded="false" signature="6:45" ph="..." />
-            <marker date="1548986089226" expanded="true" signature="89:183" ph="{...}" />
-            <marker date="1548986089226" expanded="true" signature="156:181" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -461,23 +210,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <marker date="1550630160612" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550630160612" expanded="true" signature="139:170" ph="{...}" />
-          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/ColumnEvent.cs">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/Mammal.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
-          <folding>
-            <marker date="1550018705976" expanded="true" signature="6:105" ph="..." />
-            <marker date="1550018705976" expanded="true" signature="137:399" ph="{...}" />
-            <marker date="1550018705976" expanded="true" signature="311:335" ph="{...}" />
-            <marker date="1550018705976" expanded="true" signature="390:397" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -485,9 +227,154 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Doggo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/ColumnEvent.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Animal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Mammal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Doggo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/FloatData.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/ColumnEvent.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Mammal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Animal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Doggo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/ColumnEvent.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Mammal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Animal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Doggo.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Mammal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Animal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Doggo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/ColumnEvent.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/ColorData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Mammal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/FloatData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MonoEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
           <folding>
-            <marker date="1550629845330" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550629845330" expanded="true" signature="139:167" ph="{...}" />
+            <marker date="1550684740965" expanded="true" signature="6:105" ph="..." />
+            <marker date="1550684740965" expanded="true" signature="147:473" ph="{...}" />
+            <marker date="1550684740965" expanded="true" signature="241:270" ph="{...}" />
+            <marker date="1550684740965" expanded="true" signature="296:326" ph="{...}" />
+            <marker date="1550684740965" expanded="true" signature="355:388" ph="{...}" />
+            <marker date="1550684740965" expanded="true" signature="443:471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/PowerUpBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <marker date="1550685176008" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550685176008" expanded="true" signature="141:276" ph="{...}" />
+            <marker date="1550685176008" expanded="true" signature="194:205" ph="{...}" />
+            <marker date="1550685176008" expanded="true" signature="245:272" ph="{...}" />
           </folding>
         </state>
       </provider>
