@@ -9,7 +9,7 @@ public class Coin2 : PowerUpBase
 	
     public void OnCoin2Pickup (float AddCoin2Value)
     {
-        Coin2Value += AddCoin2Value;
+        Value += AddCoin2Value;
     }
 
     
