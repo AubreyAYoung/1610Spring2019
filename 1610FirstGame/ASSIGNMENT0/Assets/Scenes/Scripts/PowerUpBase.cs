@@ -6,16 +6,13 @@ using UnityEngine;
 public class PowerUpBase : ScriptableObject
 {
 
-	public float Value = 10.5f; 
+	public float Value = 0f; 
 	
 	 void OnEnable()
 	 {
 		
 	 }
 
-	public void OnPowerUp(float AddValue)
-	{
-		Value += AddValue;
-	}
+	
 	
 }

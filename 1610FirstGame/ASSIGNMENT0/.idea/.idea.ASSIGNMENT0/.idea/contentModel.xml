@@ -8,6 +8,9 @@
         <e p="Scenes" t="Include">
           <e p="Scripts" t="Include">
             <e p="Animal.cs" t="Include" />
+            <e p="Coin1.cs" t="Include" />
+            <e p="Coin2.cs" t="Include" />
+            <e p="Coin3.cs" t="Include" />
             <e p="ColorData.cs" t="Include" />
             <e p="ColumnEvent.cs" t="Include" />
             <e p="Doggo.cs" t="Include" />
