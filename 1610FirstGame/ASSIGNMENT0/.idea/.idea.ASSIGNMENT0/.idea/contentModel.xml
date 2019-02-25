@@ -8,11 +8,14 @@
         <e p="Scenes" t="Include">
           <e p="Scripts" t="Include">
             <e p="Animal.cs" t="Include" />
-            <e p="Coin1.cs" t="Include" />
-            <e p="Coin2.cs" t="Include" />
-            <e p="Coin3.cs" t="Include" />
+            <e p="Coins" t="Include">
+              <e p="Coin1.cs" t="Include" />
+              <e p="Coin2.cs" t="Include" />
+              <e p="Coin3.cs" t="Include" />
+            </e>
             <e p="ColorData.cs" t="Include" />
             <e p="ColumnEvent.cs" t="Include" />
+            <e p="Conditionals.cs" t="Include" />
             <e p="Doggo.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="Mammal.cs" t="Include" />
