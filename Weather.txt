@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Orem, Mostly Cloudy, 38 degrees, 63% Humidity
+Provo, Clear, 38 degrees, 49% Humidity
 
 =======
 <<<<<<< HEAD
