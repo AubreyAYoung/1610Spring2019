@@ -7,6 +7,7 @@
       <e p="Assets" t="Include">
         <e p="Scenes" t="Include">
           <e p="Scripts" t="Include">
+            <e p="ammo.cs" t="Include" />
             <e p="Animal.cs" t="Include" />
             <e p="Coins" t="Include">
               <e p="Coin1.cs" t="Include" />
