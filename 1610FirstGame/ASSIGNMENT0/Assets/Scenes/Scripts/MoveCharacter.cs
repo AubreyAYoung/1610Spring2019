@@ -5,10 +5,9 @@ using UnityEngine.Events;
 
 public class MoveCharacter : MonoBehaviour
 {
-	public UnityEvent OnGrounded, OffGrounded; 
-	
-	public float Speed = 3;
-	
+	public UnityEvent OnGrounded, OffGrounded;
+
+	public MoveBase CharacterMover;
 	
 	private CharacterController _controller;
 	private Vector3 position;
@@ -29,9 +28,11 @@ public class MoveCharacter : MonoBehaviour
 		{
 			OffGrounded.Invoke();
 		}
+
+		CharacterMover.Move(_controller);
+
 		
-		position.y = Input.GetAxis("Vertical")*Speed*Time.deltaTime;
-		position.x = Input.GetAxis("Horizontal") * Speed * Time.deltaTime; 
-		_controller.Move(position);
+
+
 	}
 }
