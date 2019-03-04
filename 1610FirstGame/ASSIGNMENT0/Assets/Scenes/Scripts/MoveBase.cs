@@ -8,6 +8,8 @@ public abstract class MoveBase : ScriptableObject
    public float Speed = 30;
    public float JumpForce = 1.5f;
    public float Gravity = -3;
+   protected CharacterController _controller;  
+   
    public abstract void Move(CharacterController _controller);
 
 }
