@@ -18,6 +18,11 @@ public class MonoEvents : MonoBehaviour
 		EnableEvent.Invoke();
 	}
 
+	private void OnTriggerEnter(Collider other)
+	{
+		throw new System.NotImplementedException();
+	}
+
 	private void OnMouseDown()
 	{
 		MouseDownEvent.Invoke();
