@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Provo, Cloudy, 41 degrees, 87% Humidity
+Provo, Partly Cloudy, 57 degrees, 30% Humidity
 
 =======
 <<<<<<< HEAD
