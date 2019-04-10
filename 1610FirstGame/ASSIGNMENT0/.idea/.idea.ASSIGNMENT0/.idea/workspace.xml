@@ -14,7 +14,7 @@
       <file leaf-file-name="Conditionals.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Conditionals.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="765">
               <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
               <folding>
                 <marker date="1551287837222" expanded="true" signature="6:104" ph="..." />
@@ -32,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Enemy AI.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Enemy AI.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Enemy AI.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -42,6 +42,22 @@
                 <marker date="1554741162474" expanded="true" signature="138:355" ph="{...}" />
                 <marker date="1554741162474" expanded="true" signature="243:291" ph="{...}" />
                 <marker date="1554741162474" expanded="true" signature="346:353" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Counter.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Counter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <folding>
+                <marker date="1554914839705" expanded="true" signature="6:105" ph="..." />
+                <marker date="1554914839705" expanded="true" signature="143:561" ph="{...}" />
+                <marker date="1554914839705" expanded="true" signature="286:295" ph="{...}" />
+                <marker date="1554914839705" expanded="true" signature="333:556" ph="{...}" />
+                <marker date="1554914839705" expanded="true" signature="405:500" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -90,6 +106,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/PowerUpBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Counter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Coins/Coin1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MoveSingleJump.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Enemy AI.cs" root0="FORCE_HIGHLIGHTING" />
@@ -115,6 +132,7 @@
         <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/MoveBase.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/MonoEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/Enemy AI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/Counter.cs" />
       </list>
     </option>
   </component>
@@ -136,10 +154,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -151,6 +165,10 @@
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
       </pane>
       <pane id="Scratches" />
     </panes>
@@ -204,11 +222,12 @@
       <workItem from="1551893324689" duration="636000" />
       <workItem from="1553032273528" duration="2540000" />
       <workItem from="1554741071217" duration="688000" />
+      <workItem from="1554913219051" duration="2056000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24544000" />
+    <option name="totallyTimeSpent" value="26600000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -220,7 +239,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -260,7 +280,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Coin3.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Coin1.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MonoEvents.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -410,13 +429,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MoveBase.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MoveBase.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MoveSingleJump.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -455,7 +468,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Mammal.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Conditionals.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="765">
           <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
           <folding>
             <marker date="1551287837222" expanded="true" signature="6:104" ph="..." />
@@ -481,6 +494,20 @@
             <marker date="1554741162474" expanded="true" signature="138:355" ph="{...}" />
             <marker date="1554741162474" expanded="true" signature="243:291" ph="{...}" />
             <marker date="1554741162474" expanded="true" signature="346:353" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Counter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <marker date="1554914839705" expanded="true" signature="6:105" ph="..." />
+            <marker date="1554914839705" expanded="true" signature="143:561" ph="{...}" />
+            <marker date="1554914839705" expanded="true" signature="286:295" ph="{...}" />
+            <marker date="1554914839705" expanded="true" signature="333:556" ph="{...}" />
+            <marker date="1554914839705" expanded="true" signature="405:500" ph="{...}" />
           </folding>
         </state>
       </provider>
