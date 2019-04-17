@@ -32,6 +32,7 @@
             <e p="MoveSingleJump.cs" t="Include" />
             <e p="MoveWithAxis.cs" t="Include" />
             <e p="PowerUpBase.cs" t="Include" />
+            <e p="RunAnims.cs" t="Include" />
           </e>
         </e>
       </e>

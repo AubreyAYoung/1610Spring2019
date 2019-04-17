@@ -37,7 +37,7 @@ public class Conditionals : MonoBehaviour
 		 }
 		 else
 		 {
-			 print("Lesser")
+			 print("Lesser");
 		 }
 
 		 if (Password == "OU812")

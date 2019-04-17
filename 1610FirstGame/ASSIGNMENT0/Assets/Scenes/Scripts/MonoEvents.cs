@@ -6,7 +6,7 @@ using UnityEngine.Events;
 public class MonoEvents : MonoBehaviour
 {
 
-	public UnityEvent StartEvent, EnableEvent, MouseDownEvent, UpdateEvent;
+	public UnityEvent StartEvent, EnableEvent, MouseDownEvent, UpdateEvent, OnTriggerEvent;
 	
 	void Start () 
 	{
@@ -20,8 +20,7 @@ public class MonoEvents : MonoBehaviour
 
 	private void OnTriggerEnter(Collider other)
 	{
-		throw new System.NotImplementedException();
-	}
+	OnTriggerEvent.Invoke();	}
 
 	private void OnMouseDown()
 	{
