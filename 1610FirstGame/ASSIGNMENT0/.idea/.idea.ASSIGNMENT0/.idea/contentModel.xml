@@ -28,6 +28,7 @@
             <e p="MoveCharacter.cs" t="Include" />
             <e p="Movement" t="Include">
               <e p="MoveBase.cs" t="Include" />
+              <e p="MoveSingleJump.cs" t="Include" />
             </e>
             <e p="MoveSingleJump.cs" t="Include" />
             <e p="MoveWithAxis.cs" t="Include" />

@@ -14,7 +14,7 @@
       <file leaf-file-name="Conditionals.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Conditionals.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
+            <state relative-caret-position="540">
               <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
               <folding>
                 <marker date="1555520703516" expanded="false" signature="6:104" ph="..." />
@@ -78,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MonoEvents.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MonoEvents.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MonoEvents.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <marker date="1555521391103" expanded="false" signature="6:105" ph="..." />
                 <marker date="1555521391103" expanded="true" signature="147:566" ph="{...}" />
@@ -91,6 +91,21 @@
                 <marker date="1555521391103" expanded="true" signature="388:419" ph="{...}" />
                 <marker date="1555521391103" expanded="true" signature="448:481" ph="{...}" />
                 <marker date="1555521391103" expanded="true" signature="536:564" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoveSingleJump.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Movement/MoveSingleJump.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <marker date="1551723344945" expanded="true" signature="6:78" ph="..." />
+                <marker date="1551723344945" expanded="true" signature="118:501" ph="{...}" />
+                <marker date="1551723344945" expanded="true" signature="187:498" ph="{...}" />
+                <marker date="1551723344945" expanded="true" signature="256:332" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -116,16 +131,16 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Conditionals.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/ammo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/RunAnims.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/PowerUpBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Coins/Coin1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/ammo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MoveCharacter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MoveWithAxis.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/PowerUpBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Movement/MoveSingleJump.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Counter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Coins/Coin1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MoveSingleJump.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Enemy AI.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -151,6 +166,7 @@
         <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/RunAnims.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/Conditionals.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/MonoEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/Movement/MoveSingleJump.cs" />
       </list>
     </option>
   </component>
@@ -172,11 +188,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -189,6 +200,11 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,11 +259,12 @@
       <workItem from="1554913219051" duration="2675000" />
       <workItem from="1555518523789" duration="469000" />
       <workItem from="1555519015379" duration="2020000" />
+      <workItem from="1555953723911" duration="1574000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29708000" />
+    <option name="totallyTimeSpent" value="31282000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -266,15 +283,15 @@
       <window_info active="true" anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32943678" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -299,22 +316,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MonoEvents.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-          <folding>
-            <marker date="1555521391103" expanded="false" signature="6:105" ph="..." />
-            <marker date="1555521391103" expanded="true" signature="147:566" ph="{...}" />
-            <marker date="1555521391103" expanded="true" signature="257:286" ph="{...}" />
-            <marker date="1555521391103" expanded="true" signature="312:342" ph="{...}" />
-            <marker date="1555521391103" expanded="true" signature="388:419" ph="{...}" />
-            <marker date="1555521391103" expanded="true" signature="448:481" ph="{...}" />
-            <marker date="1555521391103" expanded="true" signature="536:564" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/PowerUpBase.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -511,7 +512,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Conditionals.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
+        <state relative-caret-position="540">
           <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
           <folding>
             <marker date="1555520703516" expanded="false" signature="6:104" ph="..." />
@@ -531,7 +532,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MonoEvents.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <marker date="1555521391103" expanded="false" signature="6:105" ph="..." />
             <marker date="1555521391103" expanded="true" signature="147:566" ph="{...}" />
@@ -540,6 +541,19 @@
             <marker date="1555521391103" expanded="true" signature="388:419" ph="{...}" />
             <marker date="1555521391103" expanded="true" signature="448:481" ph="{...}" />
             <marker date="1555521391103" expanded="true" signature="536:564" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Movement/MoveSingleJump.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <marker date="1551723344945" expanded="true" signature="6:78" ph="..." />
+            <marker date="1551723344945" expanded="true" signature="118:501" ph="{...}" />
+            <marker date="1551723344945" expanded="true" signature="187:498" ph="{...}" />
+            <marker date="1551723344945" expanded="true" signature="256:332" ph="{...}" />
           </folding>
         </state>
       </provider>
