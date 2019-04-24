@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\10835542\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_ASSIGNMENT0.-288836368.00" t="ExcludeRecursive" />
-    <e p="C:\Users\10835542\Documents\1610Spring2019\1610FirstGame\ASSIGNMENT0" t="IncludeRecursive">
+    <e p="C:\Users\amill\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\amill\.Rider2018.3\system\resharper-host\Local\Transient\ReSharperHost\v183\SolutionCaches\_ASSIGNMENT0.-1008050845.00" t="ExcludeRecursive" />
+    <e p="C:\Users\amill\OneDrive\Documents\1610Spring2019\ASSIGNMENT0" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scenes" t="Include">
@@ -22,7 +23,7 @@
             <e p="ColumnEvent.cs" t="Include" />
             <e p="Conditionals.cs" t="Include" />
             <e p="Counter.cs" t="Include" />
-            <e p="Enemy AI.cs" t="Include" />
+            <e p="EnemyAI.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="MonoEvents.cs" t="Include" />
             <e p="MoveCharacter.cs" t="Include" />
@@ -30,7 +31,6 @@
               <e p="MoveBase.cs" t="Include" />
               <e p="MoveSingleJump.cs" t="Include" />
             </e>
-            <e p="MoveSingleJump.cs" t="Include" />
             <e p="MoveWithAxis.cs" t="Include" />
             <e p="PowerUpBase.cs" t="Include" />
             <e p="RunAnims.cs" t="Include" />

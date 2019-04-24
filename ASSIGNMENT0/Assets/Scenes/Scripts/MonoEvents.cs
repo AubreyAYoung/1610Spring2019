@@ -29,7 +29,8 @@ public class MonoEvents : MonoBehaviour
 
 
 	// Update is called once per frame
-	void Update () {
+	void Update () 
+	{
 		UpdateEvent.Invoke();
 	}
 }
