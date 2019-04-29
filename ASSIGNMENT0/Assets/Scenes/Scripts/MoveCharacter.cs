@@ -9,17 +9,17 @@ public class MoveCharacter : MonoBehaviour
 
 	public MoveBase CharacterMover;
 	
-	private CharacterController _controller;
+	private CharacterController controller;
 	private Vector3 position;
 	
 	private void Start()
 	{
-		_controller = GetComponent<CharacterController>();
+		controller = GetComponent<CharacterController>();
 	}
 
 	void Update ()
 	{
-		if (_controller.isGrounded)
+		if (controller.isGrounded)
 		{
 			OnGrounded.Invoke();
 			
@@ -29,7 +29,7 @@ public class MoveCharacter : MonoBehaviour
 			OffGrounded.Invoke();
 		}
 
-		CharacterMover.Move(_controller);
+		CharacterMover.Move(controller);
 
 		
 
