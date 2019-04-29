@@ -11,24 +11,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MonoEvents.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
-              <folding>
-                <marker date="1555966000286" expanded="true" signature="6:105" ph="..." />
-                <marker date="1555966000286" expanded="true" signature="147:568" ph="{...}" />
-                <marker date="1555966000286" expanded="true" signature="257:286" ph="{...}" />
-                <marker date="1555966000286" expanded="true" signature="312:342" ph="{...}" />
-                <marker date="1555966000286" expanded="true" signature="388:419" ph="{...}" />
-                <marker date="1555966000286" expanded="true" signature="448:481" ph="{...}" />
-                <marker date="1555966000286" expanded="true" signature="536:566" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Movement/MoveSingleJump.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -70,6 +52,21 @@
                 <marker date="1556517058044" expanded="true" signature="436:619" ph="{...}" />
                 <marker date="1556517058044" expanded="true" signature="486:613" ph="{...}" />
                 <marker date="1556517058044" expanded="true" signature="532:603" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Greetings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+              <folding>
+                <marker date="1556557308187" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556557308187" expanded="true" signature="118:602" ph="{...}" />
+                <marker date="1556557308187" expanded="true" signature="194:599" ph="{...}" />
+                <marker date="1556557308187" expanded="true" signature="223:590" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -118,7 +115,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/CameraController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -183,6 +180,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Collection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/MoveCharacter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/RunAnims.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Greetings.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Conditionals.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/PowerUpBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Counter.cs" root0="FORCE_HIGHLIGHTING" />
@@ -216,10 +214,11 @@
         <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/MoveCharacter.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/Collection.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Scripts/Greetings.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="240" />
     <option name="y" value="129" />
     <option name="width" value="1440" />
@@ -306,12 +305,12 @@
       <workItem from="1555953723911" duration="1574000" />
       <workItem from="1555963602120" duration="2995000" />
       <workItem from="1556127496848" duration="1220000" />
-      <workItem from="1556513945058" duration="2197000" />
+      <workItem from="1556513945058" duration="3345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37694000" />
+    <option name="totallyTimeSpent" value="38842000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -553,6 +552,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/CameraController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1556555199976" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556555199976" expanded="true" signature="143:401" ph="{...}" />
+            <marker date="1556555199976" expanded="true" signature="221:299" ph="{...}" />
+            <marker date="1556555199976" expanded="true" signature="322:399" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Collection.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -570,15 +582,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/CameraController.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Greetings.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="68">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
           <folding>
-            <marker date="1556555199976" expanded="false" signature="6:78" ph="..." />
-            <marker date="1556555199976" expanded="true" signature="143:401" ph="{...}" />
-            <marker date="1556555199976" expanded="true" signature="221:299" ph="{...}" />
-            <marker date="1556555199976" expanded="true" signature="322:399" ph="{...}" />
+            <marker date="1556557308187" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556557308187" expanded="true" signature="118:602" ph="{...}" />
+            <marker date="1556557308187" expanded="true" signature="194:599" ph="{...}" />
+            <marker date="1556557308187" expanded="true" signature="223:590" ph="{...}" />
           </folding>
         </state>
       </provider>
